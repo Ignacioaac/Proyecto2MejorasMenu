@@ -1,5 +1,5 @@
 #include <iostream>
-
+/*Proyecto 2 programa para convertir un numero a letras por Ignacio Alvarado Chacón*/
 
 using namespace std; //para usar nombres
 
